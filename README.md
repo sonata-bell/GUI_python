@@ -3,8 +3,7 @@
 
 ## 1번째 방법
 ### python 에 기본적으로 들어 있는 tkinter를 이용하는 방법
-
-이것은 아주 단순한 기능만을 제공 하고 있다 
+#### 이것은 아주 단순한 기능만을 제공 하고 있다 
 
 ### pack option
  시작위치 widget.pack(side = left,right,[top],bottom)
@@ -56,3 +55,10 @@ win.mainloop()
 <img src="./grid_tk.PNG" title="그리드 연습" alt="RubberDuck"></img><br/>
 
 ## 그리고 몇가지 소스를 첨부 해 놓겠음.
+
+
+## 2번째 방법
+### pyqt5를 이용하는 방법
+#### 이것은 가장 큰 특징이 Designer가 있다는 것이다.    즉 비쥬얼씨에서 다이얼로그 박스 만들듯이 만들면 되고    심지어 이것은 자동 연결(시그널과 뭐라던데) 까지 된다.
+
+이것은 추후 설명을 하겠다. 
