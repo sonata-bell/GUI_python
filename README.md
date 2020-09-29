@@ -53,6 +53,6 @@ btn.grid(column=1, row=2, columnspan=2)
 win.mainloop()
 ```
 ## 실행 결과
-<img src="./grid_tk.png.PNG" title="그리드 연습" alt="RubberDuck"></img><br/>
+<img src="./grid_tk.PNG" title="그리드 연습" alt="RubberDuck"></img><br/>
 
 ## 그리고 몇가지 소스를 첨부 해 놓겠음.
